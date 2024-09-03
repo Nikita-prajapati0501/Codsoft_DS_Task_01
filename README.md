@@ -1,2 +1,13 @@
-# Codsoft_DS_Task_01
-Task 1 of your data science internship with Codsoft involves detecting credit card fraud. The task includes preprocessing transaction data, applying machine learning models to identify fraudulent transactions, and evaluating model performance using relevant metrics.
+# CODESOFT
+## Name: Suman Pokhrel
+## Batch: April A47
+
+
+# Internship 1: Artificial Intelligence
+[https://github.com/sumanpokhrel-11/CODESOFT/tree/main/AI]
+
+# Internship 2: Data Science
+[https://github.com/sumanpokhrel-11/CODESOFT/tree/main/Data%20Science]
+
+# Internship 3: Machine Learning
+[https://github.com/sumanpokhrel-11/CODESOFT/tree/main/ML]
